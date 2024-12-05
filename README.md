@@ -1,5 +1,6 @@
 # UzDiz
  Design Patterns project
+ ---
  Developed as part of the 2023/2024 academic curriculum for the Design Patterns course.
 
 # Package Delivery System
